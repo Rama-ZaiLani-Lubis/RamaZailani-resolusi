@@ -4,6 +4,7 @@ RENCANA HIDUP RAMA
   *ES6
   *framework javascript
    ^Vue
+   ^React
 -belajar struktur data
 -Menyelesaikan skripsi
 -Makan banyak
