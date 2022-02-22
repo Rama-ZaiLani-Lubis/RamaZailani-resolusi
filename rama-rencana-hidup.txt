@@ -3,5 +3,6 @@ RENCANA HIDUP RAMA
 -Belajar Javascript
   *ES6
   *framework javascript
+-belajar struktur data
 -Menyelesaikan skripsi
 -Makan banyak
